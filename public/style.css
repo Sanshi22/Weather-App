@@ -1,0 +1,28 @@
+body
+{
+    background-color: aqua;
+    margin: 0px;
+    padding:0px;
+}
+fieldset
+{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    padding: 5%;
+    height : 60%;
+    background-color:hotpink;
+}
+input{
+    font-size: 130%;
+    border-color: silver;
+    border-radius: 5px;
+    color :black;
+    background-color: sandybrown;
+    margin-left: 30%;
+}
+.op
+{
+    text-align: center;
+    font-weight: bold;
+}
